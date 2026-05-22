@@ -15,7 +15,7 @@ status-website:
   logoUrl: https://refractfoundation.org/img/logo/full_colour.svg
   name: Refract Foundation Status
   introTitle: "Monitor the status of Refract sites and services."
-  introMessage: 
+  introMessage: Real skills. Real opportunity.
   navbar:
     - title: Home
       href: https://refractfoundation.org
