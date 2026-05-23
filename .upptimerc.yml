@@ -10,6 +10,10 @@ sites:
     url: https://census.refractfoundation.org
     assignees:
       - opott
+  - name: Status Page
+    url: https://status.refractfoundation.org
+    assignees:
+      - opott
 
 status-website:
   themeUrl: https://status.refractfoundation.org/refract.css
