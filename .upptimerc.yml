@@ -24,10 +24,23 @@ status-website:
   logoUrl: https://refractfoundation.org/img/logo/full_colour.svg
   name: Refract Foundation Status
   introTitle: "Monitor the status of Refract sites and services."
-  introMessage: Real skills. Real opportunity.
   navbar:
     - title: Home
       href: https://refractfoundation.org
+  customBodyHtml: |
+    <script type="text/javascript">
+      var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+      (function () {
+        var s1 = document.createElement("script"),
+          s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = "https://embed.tawk.to/6956926eb11caa197dad0980/1jdt2o0go";
+        s1.charset = "UTF-8";
+        s1.setAttribute("crossorigin", "*");
+        s0.parentNode.insertBefore(s1, s0);
+      })();
+    </script>
     
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
