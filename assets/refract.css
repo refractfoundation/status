@@ -31,6 +31,6 @@
   --submit-button-background-color: #004225;
   --submit-button-color: #ffffff;
 
-  --graph-opacity: 0.95;
-  --graph-filter: sepia(0.15) saturate(0.9);
+  --graph-opacity: 1;
+  --graph-filter: none;
 }
