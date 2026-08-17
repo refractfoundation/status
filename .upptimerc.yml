@@ -21,7 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.refractfoundation.org
   # baseUrl: /your-repo-name
-  logoUrl: https://refractfoundation.org/img/logo/full_colour.svg
+  logoUrl: https://refractfoundation.org/assets/images/logo/full_colour.svg
   name: Refract Foundation Status
   introTitle: "Monitor the status of Refract sites and services."
   navbar:
