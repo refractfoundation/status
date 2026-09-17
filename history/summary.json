@@ -13,7 +13,7 @@
     "time": 220,
     "timeDay": 144,
     "timeWeek": 269,
-    "timeMonth": 231,
+    "timeMonth": 232,
     "timeYear": 220,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,20 @@
     "url": "https://census.refractfoundation.org",
     "icon": "https://icons.duckduckgo.com/ip3/census.refractfoundation.org.ico",
     "slug": "census-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 972,
-    "timeDay": 1517,
-    "timeWeek": 1656,
-    "timeMonth": 1964,
-    "timeYear": 972,
-    "dailyMinutesDown": {}
+    "time": 967,
+    "timeDay": 923,
+    "timeWeek": 1466,
+    "timeMonth": 1958,
+    "timeYear": 967,
+    "dailyMinutesDown": {
+      "2026-09-17": 0
+    }
   },
   {
     "name": "Status Page",
