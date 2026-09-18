@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 144,
-    "timeWeek": 269,
-    "timeMonth": 232,
-    "timeYear": 220,
+    "time": 219,
+    "timeDay": 172,
+    "timeWeek": 245,
+    "timeMonth": 236,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/census.refractfoundation.org.ico",
     "slug": "census-platform",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 967,
-    "timeDay": 923,
-    "timeWeek": 1466,
-    "timeMonth": 1958,
-    "timeYear": 967,
+    "uptime": "99.73%",
+    "uptimeDay": "67.91%",
+    "uptimeWeek": "95.42%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "99.73%",
+    "time": 962,
+    "timeDay": 328,
+    "timeWeek": 1233,
+    "timeMonth": 1909,
+    "timeYear": 962,
     "dailyMinutesDown": {
-      "2026-09-17": 0
+      "2026-09-18": 222,
+      "2026-09-17": 240
     }
   },
   {
@@ -49,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 587,
-    "timeWeek": 340,
-    "timeMonth": 240,
+    "timeDay": 208,
+    "timeWeek": 335,
+    "timeMonth": 237,
     "timeYear": 209,
     "dailyMinutesDown": {}
   }
